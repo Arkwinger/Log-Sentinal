@@ -1,1 +1,2 @@
-
+[ALERT] Repeated 404s from IP 192.168.56.101 — possible scanning activity.
+[ALERT] Multiple failed SSH logins for user 'annie' — possible brute-force attempt.
